@@ -115,6 +115,10 @@
   font-size: 17px;
 }
 
+h1 em {
+  font-weight: 300;
+}
+
 .contact-copy {
   min-width: 0;
 }
