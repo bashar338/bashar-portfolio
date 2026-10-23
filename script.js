@@ -89,7 +89,7 @@ modalVideo.addEventListener('error', () => {
   if (!modalVideo.getAttribute('src')) return;
   modalVideo.style.display = 'none';
   modalPlaceholder.style.display = 'grid';
-  modalPlaceholderCode.hidden = true;
+  modalPlaceholderCode.style.display = 'none';
   modalPlaceholder.querySelector('[data-i18n="uploadHint"]').textContent = copy[document.documentElement.dataset.lang].videoUnavailable;
 });
 window.addEventListener('resize', fitModalVideo);
@@ -127,7 +127,7 @@ const openModal = (key) => {
   modalTitle.textContent = project.title;
   modalKicker.textContent = project.kicker;
   modalDuration.textContent = project.duration || '';
-  modalPlaceholderCode.hidden = false;
+  modalPlaceholderCode.style.removeProperty('display');
   modalPlaceholder.querySelector('[data-i18n="uploadHint"]').textContent = copy[document.documentElement.dataset.lang].uploadHint;
   modal.hidden = false;
   document.body.style.overflow = 'hidden';
