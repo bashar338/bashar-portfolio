@@ -20,13 +20,7 @@ const projectData = {
   videoEditing: {
     title: 'Video Editing',
     kicker: 'VIDEO COLLECTION',
-    clips: [
-      { title: '1', duration: '00:39', video: 'media/مونتاج/1.mov' },
-      { title: '2', duration: '00:43', video: 'media/مونتاج/2.mp4' },
-      { title: '3', duration: '00:42', video: 'media/مونتاج/3.mov' },
-      { title: '4', duration: '00:24', video: 'media/مونتاج/4.mov' },
-      { title: '5', duration: '00:37', video: 'media/مونتاج/5.mp4' }
-    ]
+    externalLink: 'https://drive.google.com/drive/folders/1UFacIrlyC8EUyKt2-69euZOSkv2KHkNy?usp=sharing'
   },
   aiCollection: {
     title: 'AI',
