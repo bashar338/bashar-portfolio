@@ -138,8 +138,9 @@ const openModal = (key) => {
   modalExternalLink.removeAttribute('href');
   if (project.externalLink) modalExternalLink.href = project.externalLink;
   modalPlaylist.replaceChildren();
-  modalPlaylist.hidden = !project.clips;
-  if (project.clips) {
+  const hasClips = Boolean(project.clips?.length && !project.externalLink);
+  modalPlaylist.hidden = !hasClips;
+  if (hasClips) {
     modalPlaylist.setAttribute('aria-label', `${project.title} clips`);
     project.clips.forEach((clip, index) => {
       const button = document.createElement('button');
