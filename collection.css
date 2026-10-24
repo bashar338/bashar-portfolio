@@ -30,6 +30,18 @@
   outline-offset: 2px;
 }
 
+.modal-external-link[hidden],
+.modal-video-wrap[hidden] {
+  display: none;
+}
+
+.modal-external-link {
+  width: fit-content;
+  max-width: 100%;
+  justify-content: center;
+  margin: 68px auto 56px;
+}
+
 .after-effects-art {
   background: #05054f;
 }

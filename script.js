@@ -1,9 +1,9 @@
 const copy = {
   ar: {
-    navWork: 'الأعمال', navAbout: 'عني', navContact: 'تواصل', letsTalk: 'لنتحدث', available: 'متاح لمشاريع مختارة · 2024—25', heroLead: 'حـــكايات بـــصـــرية', heroEm: 'مقصوصة بقصد.', heroSub: 'أنا بشار زاهد — Video Editor & Motion Graphic، أحوّل اللقطات الخام إلى أفلام بإيقاع واضح وحركة لها معنى.', explore: 'استعرض الأعمال', moreAbout: 'تعرف عليّ أكثر', heroNote: 'إيقاع، لون، وحركة', workTitle: 'أعمال مختارة', workIntro: 'مجموعة من التجارب التي تجمع المونتاج، الموشن، والصوت في قصة واحدة.', aboutTitle: 'أصنع المعنى<br /><em>بين اللقطات.</em>', aboutLead: 'أحوّل اللقطات الخام إلى تجارب تتحرك بإيقاع واضح. من أول cut إلى آخر frame، أبحث عن اللحظة التي تجعل الفكرة تُحس قبل أن تُفهم.', startProject: 'ابدأ مشروعًا', service1: 'Video Editing', service1Desc: 'قص، إيقاع، وقصة', service2: 'Motion Graphics', service2Desc: 'حركة تعطي الفكرة صوتًا', service3: 'Color & Sound', service3Desc: 'اللمسة التي تكمل المشهد', processTitle: 'من الفكرة إلى الإطار', processIntro: 'سير عمل بسيط ومركّز، حتى تبقى الطاقة في المكان الصحيح: داخل العمل.', process1: 'Listen', process1Desc: 'أفهم هدفك، جمهورك، والإحساس الذي تريد تركه.', process2: 'Shape', process2Desc: 'أبني الإيقاع، أختار اللقطات، وأحرك الفكرة بصريًا.', process3: 'Polish', process3Desc: 'لون، صوت، وتسليم جاهز للنشر أينما كان.', contactTitle: 'عندك قصة؟<br /><em>خلّنا نحركها.</em>', uploadHint: 'أضف رابط الفيديو المستضاف خارجيًا في script.js.', videoUnavailable: 'هذا المقطع غير متاح الآن؛ ستُضاف رابطه الخارجي قريبًا.'
+    navWork: 'الأعمال', navAbout: 'عني', navContact: 'تواصل', letsTalk: 'لنتحدث', available: 'متاح لمشاريع مختارة · 2024—25', heroLead: 'حـــكايات بـــصـــرية', heroEm: 'مقصوصة بقصد.', heroSub: 'أنا بشار زاهد — Video Editor & Motion Graphic، أحوّل اللقطات الخام إلى أفلام بإيقاع واضح وحركة لها معنى.', explore: 'استعرض الأعمال', moreAbout: 'تعرف عليّ أكثر', heroNote: 'إيقاع، لون، وحركة', workTitle: 'أعمال مختارة', workIntro: 'مجموعة من التجارب التي تجمع المونتاج، الموشن، والصوت في قصة واحدة.', aboutTitle: 'أصنع المعنى<br /><em>بين اللقطات.</em>', aboutLead: 'أحوّل اللقطات الخام إلى تجارب تتحرك بإيقاع واضح. من أول cut إلى آخر frame، أبحث عن اللحظة التي تجعل الفكرة تُحس قبل أن تُفهم.', startProject: 'ابدأ مشروعًا', service1: 'Video Editing', service1Desc: 'قص، إيقاع، وقصة', service2: 'Motion Graphics', service2Desc: 'حركة تعطي الفكرة صوتًا', service3: 'Color & Sound', service3Desc: 'اللمسة التي تكمل المشهد', processTitle: 'من الفكرة إلى الإطار', processIntro: 'سير عمل بسيط ومركّز، حتى تبقى الطاقة في المكان الصحيح: داخل العمل.', process1: 'Listen', process1Desc: 'أفهم هدفك، جمهورك، والإحساس الذي تريد تركه.', process2: 'Shape', process2Desc: 'أبني الإيقاع، أختار اللقطات، وأحرك الفكرة بصريًا.', process3: 'Polish', process3Desc: 'لون، صوت، وتسليم جاهز للنشر أينما كان.', contactTitle: 'عندك قصة؟<br /><em>خلّنا نحركها.</em>', uploadHint: 'أضف رابط الفيديو المستضاف خارجيًا في script.js.', videoUnavailable: 'هذا المقطع غير متاح الآن؛ ستُضاف رابطه الخارجي قريبًا.', openDriveFolder: 'شاهد المقاطع على Google Drive'
   },
   en: {
-    navWork: 'Work', navAbout: 'About', navContact: 'Contact', letsTalk: "Let's talk", available: 'Available for selected projects · 2024—25', heroLead: 'Visual stories,', heroEm: 'cut with intent.', heroSub: "I'm Bashar Zahid — a video editor & motion designer shaping raw footage into films with rhythm and meaning.", explore: 'Explore selected work', moreAbout: 'More about me', heroNote: 'Rhythm, color, motion', workTitle: 'Selected work', workIntro: 'A collection of edits, motion studies, and stories shaped frame by frame.', aboutTitle: 'Meaning lives<br /><em>between the cuts.</em>', aboutLead: 'I turn raw footage into experiences with a clear pulse. From the first cut to the final frame, I look for the moment an idea can be felt before it is understood.', startProject: 'Start a project', service1: 'Video Editing', service1Desc: 'Cuts, rhythm, story', service2: 'Motion Graphics', service2Desc: 'Movement with a point of view', service3: 'Color & Sound', service3Desc: 'The finish that completes the frame', processTitle: 'From idea to frame', processIntro: 'A focused process that keeps the energy where it belongs: inside the work.', process1: 'Listen', process1Desc: 'I learn your goal, your audience, and the feeling you want to leave behind.', process2: 'Shape', process2Desc: 'I build the rhythm, choose the moments, and move the idea forward.', process3: 'Polish', process3Desc: 'Color, sound, and a final delivery ready for wherever it needs to go.', contactTitle: 'Have a story?<br /><em>Let’s make it move.</em>', uploadHint: 'Add the externally hosted video URL in script.js.', videoUnavailable: 'This clip is not available yet; its external link will be added soon.'
+    navWork: 'Work', navAbout: 'About', navContact: 'Contact', letsTalk: "Let's talk", available: 'Available for selected projects · 2024—25', heroLead: 'Visual stories,', heroEm: 'cut with intent.', heroSub: "I'm Bashar Zahid — a video editor & motion designer shaping raw footage into films with rhythm and meaning.", explore: 'Explore selected work', moreAbout: 'More about me', heroNote: 'Rhythm, color, motion', workTitle: 'Selected work', workIntro: 'A collection of edits, motion studies, and stories shaped frame by frame.', aboutTitle: 'Meaning lives<br /><em>between the cuts.</em>', aboutLead: 'I turn raw footage into experiences with a clear pulse. From the first cut to the final frame, I look for the moment an idea can be felt before it is understood.', startProject: 'Start a project', service1: 'Video Editing', service1Desc: 'Cuts, rhythm, story', service2: 'Motion Graphics', service2Desc: 'Movement with a point of view', service3: 'Color & Sound', service3Desc: 'The finish that completes the frame', processTitle: 'From idea to frame', processIntro: 'A focused process that keeps the energy where it belongs: inside the work.', process1: 'Listen', process1Desc: 'I learn your goal, your audience, and the feeling you want to leave behind.', process2: 'Shape', process2Desc: 'I build the rhythm, choose the moments, and move the idea forward.', process3: 'Polish', process3Desc: 'Color, sound, and a final delivery ready for wherever it needs to go.', contactTitle: 'Have a story?<br /><em>Let’s make it move.</em>', uploadHint: 'Add the externally hosted video URL in script.js.', videoUnavailable: 'This clip is not available yet; its external link will be added soon.', openDriveFolder: 'View clips on Google Drive'
   }
 };
 
@@ -15,17 +15,7 @@ const projectData = {
   afterEffects: {
     title: 'After Effects',
     kicker: 'VIDEO COLLECTION',
-    clips: [
-      { title: '1', duration: '00:48', video: 'media/1.mp4' },
-      { title: '2', duration: '00:47', video: 'media/2.mp4' },
-      { title: '3', duration: '00:41', video: 'media/3.mp4' },
-      { title: '4', duration: '00:27', video: 'media/4.mp4' },
-      { title: '5', duration: '00:40', video: 'media/٥.mp4' },
-      { title: '6', duration: '00:32', video: 'media/6.mov' },
-      { title: '7', duration: '01:02', video: 'media/7.mp4' },
-      { title: '8', duration: '00:45', video: 'media/8.mp4' },
-      { title: '9', duration: '00:29', video: 'media/9.mp4' }
-    ]
+    externalLink: 'https://drive.google.com/drive/folders/1oWRi-h6COl2r4NWrIJqsAXeDOkM4lWuO?usp=sharing'
   },
   videoEditing: {
     title: 'Video Editing',
@@ -68,6 +58,7 @@ langToggle.addEventListener('click', () => applyLanguage(document.documentElemen
 const modal = document.querySelector('.video-modal');
 const modalVideo = document.querySelector('.modal-video');
 const modalVideoWrap = document.querySelector('.modal-video-wrap');
+const modalExternalLink = document.querySelector('.modal-external-link');
 const modalPlaceholder = document.querySelector('.modal-placeholder');
 const modalPlaceholderCode = modalPlaceholder.querySelector('code');
 const modalPlaylist = document.querySelector('.modal-playlist');
@@ -117,6 +108,9 @@ const closeModal = () => {
   modalVideoWrap.style.marginInline = '';
   modalVideo.style.display = 'none';
   modalPlaceholder.style.display = 'grid';
+  modalVideoWrap.hidden = false;
+  modalExternalLink.hidden = true;
+  modalExternalLink.removeAttribute('href');
   modalPlaylist.hidden = true;
   modalPlaylist.replaceChildren();
   document.body.style.overflow = '';
@@ -139,6 +133,10 @@ const openModal = (key) => {
   modalVideoWrap.style.marginInline = '';
   modalVideo.style.display = 'none';
   modalPlaceholder.style.display = 'grid';
+  modalVideoWrap.hidden = Boolean(project.externalLink);
+  modalExternalLink.hidden = !project.externalLink;
+  modalExternalLink.removeAttribute('href');
+  if (project.externalLink) modalExternalLink.href = project.externalLink;
   modalPlaylist.replaceChildren();
   modalPlaylist.hidden = !project.clips;
   if (project.clips) {
