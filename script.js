@@ -31,12 +31,7 @@ const projectData = {
   aiCollection: {
     title: 'AI',
     kicker: 'VIDEO COLLECTION',
-    clips: [
-      { title: '1', duration: '00:11', video: 'media/ai/ai  تحويل.mov' },
-      { title: '2', duration: '00:11', video: 'media/ai/boba minto.mov' },
-      { title: '3', duration: '00:13', video: 'media/ai/covo.mov' },
-      { title: '4', duration: '00:12', video: 'media/ai/تحويل للوطنية .mov' }
-    ]
+    externalLink: 'https://drive.google.com/drive/folders/1oSXfRVz9sPdb5nQby4fF5HZ8_eSTp8BD?usp=sharing'
   }
 };
 
